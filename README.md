@@ -1,2 +1,2 @@
 # Projeto-Site-HTML
- Site utilizando apenas html para desenvolver a liguagem de hipertexto
+ Site utilizando apenas html e css basico
